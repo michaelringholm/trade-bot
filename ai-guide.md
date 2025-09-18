@@ -1,1 +1,4 @@
 Create a py nb chunk into executeable blocks that makes meaning, add logging with emojis that are meaningful in lay mans terms. Scrape or down current (days date) top 50 stocks across tech, reneable energy and manufacturing (can be extended over time), jsut the base info such as ticker, symbol and full name. Then using yfinance donwload information regarding dividend, this is overall purpose to create overview of this using pandas and various pivoting and dimensions. Ensure info such as yield, 5y avg tield, yield frequency (yield or dividend) but in pct, also add info on year gross and net amount in M USD/EUR or DKK.
+
+OK from now on we want to just update one section, thus moving FORWARD name sections, fix for now the scrape get ticker section, as said it should scrape or download top 50 tickers but for high dividend stocks as of today.
+
