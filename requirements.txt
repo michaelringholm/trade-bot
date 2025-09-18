@@ -1,0 +1,16 @@
+yfinance
+requests
+beautifulsoup4
+lxml
+transformers
+torch
+feedparser
+praw
+snscrape
+pandas
+python-dateutil
+torch
+torchvision
+torchaudio
+--extra-index-url https://download.pytorch.org/whl/cu121
+transformers
